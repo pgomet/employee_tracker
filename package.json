@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/pgomet/employee_tracker/issues"
   },
-  "homepage": "https://github.com/pgomet/employee_tracker#readme"
+  "homepage": "https://github.com/pgomet/employee_tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^9.0.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
 }
