@@ -23,13 +23,13 @@ INSERT INTO department (department_name)
 VALUES ('Legal');
 
 INSERT INTO role (title, salary, department_id)
-VALUES ('General Manager', 120000, 1);
+VALUES ('Software Engineer', 120000, 1);
 INSERT INTO role (title, salary, department_id)
 VALUES ('Salesperson', 80000, 2);
 INSERT INTO role (title, salary, department_id)
 VALUES ('Accountant', 90000, 4);
 INSERT INTO role (title, salary, department_id)
-VALUES ('Accountant Manager', 40000, 3);
+VALUES ('Account Manager', 40000, 3);
 INSERT INTO role (title, salary, department_id)
 VALUES ('Lead Engineer', 75000, 5);
 INSERT INTO role (title, salary, department_id)
